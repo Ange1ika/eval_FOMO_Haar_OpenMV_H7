@@ -1,0 +1,436 @@
+Image: 022814asiatodaymasks_960x540_jpg.rf.a47bbba5169de7165a18653288c3ef9c.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 0ad90195-cd77-489e-bf85-08c83b80d3e0_jpg.rf.555c5122a35ba8da8b7155d27cd53663.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 10fea_8011463765e2aa28b386cf_jpg.rf.c3b6832e60943f021fef59e4d4fb4d50.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 1422808187-3291816118_jpg.rf.dbe70b70c1ce702ff55a58e6b7544f29.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 15391513321824spp815on8_jpg.rf.4bad9db48fe8dbff75a996790d4fcfa1.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.51, BBox: [x=32, y=58, w=10, h=10]
+  - Class ID: 1, Score: 0.48, BBox: [x=5, y=37, w=5, h=5]
+
+
+Image: 2282207808_1_jpg.rf.cd4a4dabe40d07785f335b4151aa6177.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.67, BBox: [x=42, y=27, w=10, h=10]
+
+
+Image: 2326158218_2_jpg.rf.248ecd461b57464cca477570bc4f8ff1.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.84, BBox: [x=48, y=29, w=21, h=7]
+  - Class ID: 1, Score: 0.73, BBox: [x=11, y=36, w=21, h=21]
+
+
+Image: 2355375119_1_jpg.rf.ff9cfe7c1d53dd6bb8eac58fcab563c3.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 2398723600_1_jpg.rf.e53b6d6f2466715ae8308ff099b36f3d.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.87, BBox: [x=34, y=41, w=6, h=6]
+  - Class ID: 1, Score: 0.78, BBox: [x=27, y=48, w=6, h=6]
+  - Class ID: 1, Score: 0.43, BBox: [x=34, y=54, w=6, h=6]
+
+
+Image: 2466353526_1_jpg.rf.b61d5e9b43e729d76b8c7ab11f6e0560.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.90, BBox: [x=48, y=40, w=8, h=8]
+
+
+Image: 249852286_2_jpg.rf.c4642814c1e297419c9933fa9dff052b.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.85, BBox: [x=34, y=48, w=6, h=6]
+  - Class ID: 1, Score: 0.79, BBox: [x=27, y=34, w=20, h=13]
+
+
+Image: 2525904180_1_jpg.rf.2ce72cfc678923112e2805953d4b88f8.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.43, BBox: [x=77, y=22, w=7, h=7]
+
+
+Image: 2536015089_1_jpg.rf.aee892a6c73086336ba7e47e4ce841a4.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 2624015355_1_jpg.rf.62797f6e1b3c3ed41793a62975a84e0a.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.48, BBox: [x=19, y=60, w=6, h=6]
+
+
+Image: 2635473457_1_jpg.rf.051cbc9b3f2d7bb75a90d28372d834ef.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 2643601988_2_jpg.rf.f5e81bfc70b2c45e50b5ecf24a18e129.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.62, BBox: [x=29, y=33, w=14, h=22]
+
+
+Image: 2699413804_1_jpg.rf.2970c38af5f3b3df1a451af74388f1d4.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.50, BBox: [x=40, y=48, w=8, h=8]
+
+
+Image: 2809588534_1_jpg.rf.0c93f2f3d3a2467396faf2565e6235b8.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.73, BBox: [x=49, y=34, w=14, h=7]
+
+
+Image: 2879155528_1_jpg.rf.82676afc0c57a4ec1f1c4ba7c1dedfe5.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 1.00, BBox: [x=40, y=40, w=8, h=8]
+  - Class ID: 1, Score: 0.91, BBox: [x=88, y=64, w=8, h=16]
+
+
+Image: 2879485750_1_jpg.rf.24f137932357d37a78119d10358f235e.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.67, BBox: [x=12, y=48, w=12, h=12]
+  - Class ID: 1, Score: 0.54, BBox: [x=31, y=35, w=6, h=6]
+  - Class ID: 1, Score: 0.41, BBox: [x=57, y=22, w=6, h=6]
+
+
+Image: 291888779_1_jpg.rf.a845d1166b07fef44461f273aad5bb74.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: 305612849_1_jpg.rf.59e0e670a531308cab8de8884721ad8e.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.46, BBox: [x=68, y=27, w=6, h=6]
+
+
+Image: BichTuyen-Without_Mask-174_png.rf.ef67d4fa11158e7a39e52cff2d667725.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.43, BBox: [x=27, y=48, w=4, h=4]
+
+
+Image: HoangYen-Without_Mask-72_png.rf.f8dde12db3d6bf7db23d1997e29f4c5b.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.45, BBox: [x=18, y=52, w=4, h=4]
+
+
+Image: IMG_4921-2_mp4-32_jpg.rf.7e6ba209fa0366c9d0d96af3dd3c5ac7.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.80, BBox: [x=22, y=39, w=4, h=4]
+
+
+Image: IMG_4921-2_mp4-35_jpg.rf.987b0fff8c8e4625770d127fec49a130.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: IMG_4933-HEIC_jpg.rf.f6ff64b45a514f3821e59db9855d2c38.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.96, BBox: [x=36, y=36, w=6, h=12]
+
+
+Image: IMG_7210_PNG.rf.f761dd45839aa2c8234a0ab1e2717ff0.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: IMG_7238_PNG.rf.d8f939919255f127cf5b6edf56624a45.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.55, BBox: [x=63, y=25, w=5, h=5]
+  - Class ID: 1, Score: 0.45, BBox: [x=58, y=36, w=5, h=5]
+
+
+Image: IMG_7242_PNG.rf.5252e10a0cc760ae5fee0af8efbf526e.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: KimTruc-Without_Mask-1189_png.rf.391df0eb5458e44e7fdba9a1b2a201a0.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.71, BBox: [x=27, y=34, w=13, h=9]
+
+
+Image: Mask2_mov-31_jpg.rf.757c7ed0c4d0f16ef21effe303a4b4ec.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: PXL_20210930_152019132_jpg.rf.ba19469a3397b37995baedc9712a2ec9.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.56, BBox: [x=36, y=36, w=12, h=18]
+
+
+Image: RPReplay_Final1667001201_MP4-103_jpg.rf.4ca656de581f179e702d42aa96d04972.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: RPReplay_Final1667001201_MP4-247_jpg.rf.456a7d2a2f1ab2252aff796dcba80bb5.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: RPReplay_Final1667001201_MP4-253_jpg.rf.781155b4a94b111e9cf76e36b6aa10f5.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.46, BBox: [x=40, y=62, w=7, h=7]
+
+
+Image: RPReplay_Final1667001201_MP4-2_jpg.rf.27e2519266e54f758985b7b208b5c088.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: RPReplay_Final1667001201_MP4-325_jpg.rf.07664041b7e03090cb051a6f20aa5f53.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: RPReplay_Final1667001201_MP4-390_jpg.rf.176042b2b211ee817d38238884033d27.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: RPReplay_Final1667001201_MP4-466_jpg.rf.af9210a5a8769413f7c40b9891a09208.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.80, BBox: [x=24, y=31, w=7, h=7]
+  - Class ID: 1, Score: 0.55, BBox: [x=32, y=23, w=7, h=7]
+
+
+Image: ST_20170401_EASAND_3046471_jpg.rf.720a9244075ebbd4ed69bbf37e888c7f.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.79, BBox: [x=53, y=26, w=5, h=5]
+  - Class ID: 1, Score: 0.46, BBox: [x=21, y=16, w=5, h=5]
+
+
+Image: Screenshot_20210830-124041_Instagram_jpg.rf.8cbdc856cbbac2e6738296daac003a9a.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.66, BBox: [x=48, y=23, w=7, h=7]
+
+
+Image: Screenshot_20210830-124200_Instagram_jpg.rf.19fcc4c763910da112af9ef3c630810d.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: Screenshot_20210830-124839_Instagram_jpg.rf.370053f0b45d8b4cffd169192ebdce2b.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.69, BBox: [x=28, y=33, w=7, h=7]
+  - Class ID: 1, Score: 0.57, BBox: [x=49, y=19, w=7, h=7]
+
+
+Image: Smog-Mask-PM2-5-Carbon-Filter-Face-Masks-Fog-Dust-Air-Cleaner-anti-pollution-Face-Protector_jpg.rf.32ff6e445a592c9d653acaa8b935b9a4.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.85, BBox: [x=13, y=56, w=7, h=7]
+  - Class ID: 1, Score: 0.80, BBox: [x=76, y=21, w=7, h=7]
+  - Class ID: 1, Score: 0.64, BBox: [x=76, y=56, w=7, h=14]
+
+
+Image: TrungHau-Without_Mask-120_png.rf.aa007eb31cd3f407f30f535123e8da94.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.86, BBox: [x=22, y=52, w=9, h=13]
+
+
+Image: US-expands-coronavirus-screenings-United-suspends-some-flights-to-China_jpg.rf.2922f78b7823304cde3b249dce874390.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.97, BBox: [x=32, y=10, w=5, h=10]
+  - Class ID: 1, Score: 0.74, BBox: [x=53, y=10, w=10, h=10]
+
+
+Image: VinhPhucTaDang-Without_Mask-840_png.rf.3ee7c4a0ca8ed67717743471ef8308ed.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.60, BBox: [x=37, y=26, w=10, h=10]
+
+
+Image: YouTube-FreeStockFootage-PersonThinkingDeeply-h-HC-hj-Zo-720p_mp4-24_jpg.rf.36e53cf24c700ab297faec2d2fe33ce6.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.94, BBox: [x=30, y=13, w=4, h=4]
+  - Class ID: 1, Score: 0.48, BBox: [x=61, y=22, w=4, h=4]
+
+
+Image: YouTube-FreeStockFootage_Child-playing-with-parents-JoyLaughterHD-RQ_qqCZOkZk-720p_mp4-12_jpg.rf.341f7c020acd35664e6fdd43d4e53798.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.72, BBox: [x=61, y=9, w=9, h=9]
+  - Class ID: 1, Score: 0.48, BBox: [x=43, y=9, w=9, h=9]
+  - Class ID: 1, Score: 0.46, BBox: [x=57, y=36, w=4, h=4]
+
+
+Image: YouTube-FreeStockFootage_Child-playing-with-parents-JoyLaughterHD-RQ_qqCZOkZk-720p_mp4-18_jpg.rf.68405a135b5b5bbba980ca026ac8afe7.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: YouTube-FreeStockFootage_Child-playing-with-parents-JoyLaughterHD-RQ_qqCZOkZk-720p_mp4-39_jpg.rf.efac9e0acfed05aabdeb9ef36d6746d2.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.86, BBox: [x=25, y=22, w=4, h=9]
+  - Class ID: 1, Score: 0.83, BBox: [x=30, y=18, w=4, h=4]
+
+
+Image: YouTube_FreeStockFootage_People-wearing-face-mask_Empty-Street_Covid19-D_DbgrvhlGs-720p_mp4-16_jpg.rf.758e4a4b59855fd13e984d26339d7e88.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: YouTube_FreeStockFootage_People-wearing-face-mask_Empty-Street_Covid19-D_DbgrvhlGs-720p_mp4-31_jpg.rf.960a1471db43fd2985eca5c559008682.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.60, BBox: [x=30, y=13, w=9, h=9]
+  - Class ID: 1, Score: 0.57, BBox: [x=61, y=13, w=4, h=4]
+
+
+Image: YouTube_FreeStockFootage_People-wearing-face-mask_Empty-Street_Covid19-D_DbgrvhlGs-720p_mp4-37_jpg.rf.b1bccdbde20241b483d369db767be1e3.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.76, BBox: [x=57, y=36, w=4, h=4]
+
+
+Image: YouTube_FreeStockFootage_People-wearing-face-mask_Empty-Street_Covid19-D_DbgrvhlGs-720p_mp4-45_jpg.rf.5826ed67a5dbf5c64859f61ab9646eb4.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: additional_tests-Nomask-wearing_mp4-31_jpg.rf.e5d27f9e6d4fd38b4402018bf3893892.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.68, BBox: [x=48, y=36, w=12, h=6]
+
+
+Image: additional_tests-Nomask-wearing_mp4-32_jpg.rf.211a41d2ef54e30df8ca3edd0c7e0149.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.97, BBox: [x=48, y=30, w=6, h=12]
+
+
+Image: maksssksksss17_png.rf.4a3b0da639f667bcfc5dada585d86512.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.83, BBox: [x=18, y=42, w=12, h=6]
+
+
+Image: maksssksksss355_png.rf.eac59e285c623ed9384837d1b29fdd3f.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: maksssksksss686_png.rf.ac9cfa30b11d259b31432e3b0d79c3cb.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: maksssksksss69_png.rf.5b83593aa401c8eb5f845c4bc896e7cd.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.43, BBox: [x=48, y=28, w=7, h=7]
+
+
+Image: maksssksksss708_png.rf.a9b35048068d0b9bd1370c333a81778d.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: maksssksksss716_png.rf.df4f32f0211e56e031bc2b53e6c6cf23.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.91, BBox: [x=36, y=48, w=6, h=6]
+
+
+Image: mask-wearing-tests_mohamed_mp4-34_jpg.rf.7473a3a4de1124227273d7004b23b23d.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: mask-wearing-tests_mohamed_mp4-46_jpg.rf.82e937d7cae91719a420260be749fcee.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: mask-wearing-tests_mohamed_mp4-60_jpg.rf.94e43145801ab0e475ebea1b287aca4a.jpg
+Inference time: 0.08 seconds
+Detections:
+me: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: mask-wearing-tests_mohamed_mp4-89_jpg.rf.6bc48a625d8336ccee6e6db6e677752b.jpg
+Inference time: 0.08 seconds
+Detections:
+  No detections.
+
+
+Image: sdfsdfsfff_jpg.rf.49a5acc0cbb480f1fc89d5bad701943b.jpg
+Inference time: 0.08 seconds
+Detections:
+  - Class ID: 1, Score: 0.91, BBox: [x=43, y=13, w=18, h=4]
+  - Class ID: 1, Score: 0.76, BBox: [x=48, y=4, w=9, h=4]
+  - Class ID: 1, Score: 0.54, BBox: [x=25, y=27, w=4, h=4]
